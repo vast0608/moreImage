@@ -1,5 +1,5 @@
-*.js linguist-language=Objective-C
-*.css linguist-language=Objective-C
-*.html linguist-language=Objective-C
+*.xcodeproj linguist-language=Objective-C
+*.h linguist-language=Objective-C
+*.m linguist-language=Objective-C
 
 
